@@ -20,6 +20,7 @@
   "homepage": "https://github.com/stn8m0n/modulo21_ex#readme",
   "devDependencies": {
     "gulp": "^5.0.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.74.1"
   }
